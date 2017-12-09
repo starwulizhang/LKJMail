@@ -9,3 +9,5 @@ service haproxy start
 chkconfig --level 2345 haproxy on
 echo "已添加到开机自启中"
 echo "安装完毕，感谢使用-乐开景云计算（yun.lekaijing.com）"
+wget https://raw.githubusercontent.com/starwulizhang/haproxy-mail/master/update.sh
+echo "如果需要更新配置文件，执行./update.sh即可"
