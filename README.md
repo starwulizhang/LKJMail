@@ -1,6 +1,11 @@
 # haproxy-mail
 Centos6基于Haproxy的邮件转发
-
+阿里云邮件推送 456<br>
+腾讯企业邮箱468<br>
+QQ邮箱469<br>
+163邮箱467<br>
+网易免费企业邮箱466<br>
+谷歌邮箱 470
 <br>安装命令<br>
 wget https://raw.githubusercontent.com/starwulizhang/haproxy-mail/master/install.sh<br>
 chmod +x ./install.sh<br>
