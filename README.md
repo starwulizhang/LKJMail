@@ -1,7 +1,7 @@
 # Haproxy-mail
 Centos6基于Haproxy的邮件转发
 <br>项目官网:https://mail.lekaijing.com
-<br>使用说明
+<br>●使用说明详见官网●
 <br>
 ——————————————————
 <br>
@@ -10,8 +10,7 @@ Centos6基于Haproxy的邮件转发
 wget https://raw.githubusercontent.com/starwulizhang/haproxy-mail/master/install.sh<br>
 chmod +x ./install.sh<br>
 ./install.sh
-
-<br>配置文件更新命令(建议每半个月更新一次，配置文件为各ESP的SMTP服务器的最新IP)<br>
+<br>更新命令(更新各ESP商IP)<br>
 wget https://raw.githubusercontent.com/starwulizhang/haproxy-mail/master/update.sh<br>
 chmod +x ./update.sh<br>
 ./update.sh
